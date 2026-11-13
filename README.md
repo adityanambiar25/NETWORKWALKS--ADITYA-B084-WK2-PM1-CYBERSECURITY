@@ -81,7 +81,7 @@ domain registration and DNS infrastructure during reconnaissance.
 
 **Evidence -- WHOIS Result**
 
-![alt text](image-1.png)
+![alt text](screenshots2/image-1.png)
 
 ## 2. WhatWeb -- Website Technology Identification
 
@@ -109,7 +109,7 @@ assessment.
 
 **Evidence -- WhatWeb Result**
 
-![alt text](image-2.png)
+![alt text](screenshots2/image-2.png)
 
 ## 3. Nslookup -- DNS Lookup
 
@@ -132,7 +132,7 @@ resolution and the DNS infrastructure responding to the query.
 
 **Evidence -- Nslookup Result**
 
-![alt text](image-3.png)
+![alt text](screenshots2/image-3.png)
 
 ## 4. cURL -- HTTP Response Header Inspection
 
@@ -158,7 +158,7 @@ web-server behaviour and configuration information.
 
 **Evidence -- cURL Result**
 
-![alt text](image-4.png)
+![alt text](screenshots2/image-4.png)
 
 ## 5. Wafw00f -- Web Application Firewall Detection
 
@@ -182,7 +182,7 @@ not provide a complete security assessment.
 
 **Evidence -- Wafw00f Result**
 
-![alt text](image-5.png)
+![alt text](screenshots2/image-5.png)
 
 ## 6. DNSenum -- DNS Enumeration
 
@@ -210,8 +210,8 @@ target.
 
 **Evidence -- DNSenum Result**
 
-![alt text](image-6.png)
-![alt text](image-7.png)
+![alt text](screenshots2/image-6.png)
+![alt text](screenshots2/image-7.png)
 
 ---
 
@@ -248,11 +248,11 @@ within the network.
 
 **Evidence -- Zenmap Scan**
 
-![alt text](image-8.png)
+![alt text](screenshots2/image-8.png)
 
 **Evidence -- Zenmap Network Topology**
 
-![alt text](image-9.png)
+![alt text](screenshots2/image-9.png)
 
 ## Findings
 
